@@ -1,0 +1,5 @@
+print(format(0.5, '%'))
+print(format(0.5, '.0%'))
+print()
+print(f'{0.3:%}')
+print(f'{0.3:.0%}')
