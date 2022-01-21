@@ -3,4 +3,4 @@ def Celsius_and_Fahrenheit(C):
     return F
 
 
-print(Celsius_and_Fahrenheit(10))
+print(Celsius_and_Fahrenheit(5))
