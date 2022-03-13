@@ -3,15 +3,21 @@
 # функций, которые выполняют часто требующиеся задачи. Эти библиотеки, как правило, содержат функцию,
 # которая генерирует случайные числа.
 import random as rm
-print(rm.randint(1,100))
+
+print(rm.randint(1, 100))
+
 
 def случайное_число(start, end):
     return rm.randint(start, end)
 
+
 print(случайное_число(1, 10))
 print('---------------------------')
+
+
 def случайное_число2(start, end, cicl):
     for i in range(cicl):
         print(rm.randint(start, end))
 
-случайное_число2(1,100,5)
+
+случайное_число2(1, 100, 5)
