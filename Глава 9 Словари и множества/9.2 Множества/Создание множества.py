@@ -1,5 +1,0 @@
-myset = set()
-myset = set ( [ 'а' , 'б' ,'в' ] )
-myset1 = set ( 'абв' )
-print(myset)
-print(myset1)
