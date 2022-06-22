@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.1 Введение в файловый ввод и вывод/friends.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.1 Введение в файловый ввод и вывод/philosophers.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.1 Введение в файловый ввод и вывод/Дозапись данных в существующий файл.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.1 Введение в файловый ввод и вывод/Конкатенация символа новой строки в строковое значение.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.1 Введение в файловый ввод и вывод/Чтение строкового значения и удаление из него символа новой строки.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/running_times.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/sales.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/video_times.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/Ключевые положения.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/Применение цикла for для чтения строк.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/Работа с файлами.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.2 Применение циклов для обработки файлов/Чтение файла в цикле и обнаружение конца файла.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/coffee_records.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/emp.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/employees.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/Добавление и вывод записей на экран.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/Изменение записей.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/Ключевые положения.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/Поиск записи.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.3 Обработка записей/Удаление записей.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/sales.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/test.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/Вывод заданного по умолчанию сообщения об ошибке при возникновении исключения.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/Выражение else.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/Выражение finally.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/Использование одного выражения except для отлавливания всех исключений.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/Ключевые положения.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/6.4 Исключения/Обработка многочисленных исключений.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/7.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Алгоритмический тренажер/student_records.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/players_record.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №1. Вывод файла на экран.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №10. Очки в игре в гольф.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №11. Генератор персональной веб-страницы.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №2. Вывод на экран верхней части файла.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №3. Номера строк.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №4. Счетчик значений.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №5. Сумма чисел.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №6. Среднее арифметическое чисел.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №7. Программа записи файла со случайными числами.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №8. Программа чтения файлов со случайными числами.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Глава 6. Файлы и исключения/Задачи по программированию/Задача №9. Обработка исключений.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Глава 9 Словари и множества/9.3 Сериализация объектов/info.dat" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
