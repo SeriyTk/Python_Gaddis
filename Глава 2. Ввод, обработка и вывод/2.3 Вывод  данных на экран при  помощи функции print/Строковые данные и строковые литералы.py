@@ -12,8 +12,6 @@ def doube_quotes():
     print("Кейт Остен")
     print("123 Фул Серкл Драйв")
     print("Эшвиль, Северная Каролина 28899")
-
-
 doube_quotes()
 print()
 '''
@@ -23,7 +21,6 @@ print()
 def apostгophe():
     print("Из всех рассказов О'Генри")
     print("мнe больше нравится'Вождь краснокожих'.")
-
 apostгophe()
 print()
 '''
@@ -32,7 +29,6 @@ print()
 '''
 def display_quote():
     print('Домашнее задание на завтра - прочитать"Гамлета".')
-
 display_quote()
 print()
 '''

@@ -7,17 +7,21 @@ age = 25
 Инструкция присваивания записывается в приведенном ниже общем формате:
 переменная = выражение
 '''
+width = 10
+length = 5
 
-
-exec ('width = 10; length = 5; print(width, length)')
+print(width, length)
 
 def variable_demo():
-    exec('room = 503; print("Я нахожусь в комнате ", room)')
+    room = 503
+    print("Я нахожусь в комнате ", room)
 
 variable_demo()
 print()
 def variable_demo2():
-    exec('top_speed = 160;  distance = 300; print("Предельная скорость составляет", top_speed);print("Пройденное расстояние составляет ",distance)')
+    top_speed = 160
+    distance = 300
+    print("Предельная скорость составляет", top_speed);print("Пройденное расстояние составляет ", distance)
 
 
 variable_demo2()

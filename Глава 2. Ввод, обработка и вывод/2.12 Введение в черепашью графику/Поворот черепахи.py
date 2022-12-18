@@ -1,0 +1,10 @@
+import turtle as tlt
+tlt.speed(11)
+tlt.forward(200)
+tlt.left(90)
+tlt.forward(200)
+tlt.left(90)
+tlt.forward(200)
+tlt.left(90)
+tlt.forward(200)
+tlt.done()
