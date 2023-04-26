@@ -1,0 +1,5 @@
+my_turple = tuple([i for i in range(1, 6)])
+print(my_turple)
+print()
+names = ( 'Холли', 'Уоррен', 'Эшли')
+for n in names: print(n)

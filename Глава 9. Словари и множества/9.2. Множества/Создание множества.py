@@ -1,0 +1,5 @@
+myset = set()
+myset = set ( [ 'а' , 'б' , 'в' ] )
+print(myset)
+myset = set ( [ 'один' , 'два' , 'три' ] )
+print(myset)

@@ -1,0 +1,12 @@
+filename = input('Введите имя файла: ')
+if filename.endswith('.txt'): print('Это имя текстового файла.')
+elif filename.endswith('.py'): print('Этo имя исходного файла Python.')
+elif filename.endswith('.doc'): print('Этo имя документа текстового редактора.')
+else: print('Неизвестный тип файла.')
+print()
+string = 'Восемьдесят семь лет назад'
+position = string.find('семь')
+if position != -1: print(f'Cлoвo "семь" найдено в индексной позиции {position}.')
+else: print ( 'Слово "семь" не найдено. ' )
+new_string = string.replace('лет', "дней")
+print(new_string)
