@@ -1,14 +1,14 @@
+from collections import Counter
 def main():
     with open('test.txt') as document_text:
-        text_string = document_text.read().lower()
-        frequency = {}
+        text_string = document_text.read().lower().split()
+        word_list = []
         for word in text_string:
-            count = frequency.get(word, 0)
-            frequency[word] = count + 1
-        frequency_list = frequency.keys()
+            clear_word = ''
+            for letter in word:
+                if letter.isalpha(): clear_word += letter
 
-        for words in frequency_list: print(words, frequency[words])
+            word_list.append(clear_word)
 
-
-
+    print(Counter(word_list))
 if __name__ == '__main__': main()
